@@ -1,10 +1,8 @@
 # NLPReviewDomainTransfer
-KcELECTRA 딥러닝 모델 활용 도메인 의존성 확인
-
-# CNNModelAnalysis
+KcELECTRA 딥러닝 모델 활용 감성분석기 도메인 의존성 확인
 
 ### 내용
-    Korean Comment Corpus 사전 학습 모델인 KcELECTRA 활용 리뷰 도메인 의존성 확인
+    Korean Comment Corpus 사전 학습 모델인 KcELECTRA 활용 감성분석기 리뷰 도메인 의존성 확인
     
 ### 데이터셋
     - 공개된 네이버 영화 리뷰 데이터셋(학습)
